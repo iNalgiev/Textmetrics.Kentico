@@ -28,4 +28,4 @@ Open the following settings in **Settings > Textmetrics** section and fill in yo
 This NuGet package is compatible with Kentico 12, any Hotfix.
 
 ## Support
-Found a bug? Please contact us at [support@textmetrics.com](support@textmetrics.com)
+Found a bug? Please contact us at [support@textmetrics.com](mailto:support@textmetrics.com)
